@@ -72,4 +72,3 @@ console.log(typeof array);
 
 let ob={'name':'javascript'};
 console.log(typeof ob);
-
